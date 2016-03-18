@@ -37,5 +37,6 @@ thats all you have to do for now
 <p>strip jumbucks-qt</p>
 then when that has finished run 
 <p>sudo cp jumbucks-qt /usr/local/bin</p>
-
-
+10. Now you have finished setting everything up now how to run the gui so run jumbucksd stop that will stop the command line interface now to run the gui type jumbucks-qt 
+### That's all there is to it thanks for reading and if you want to tip me in jumbucks
+### This is my address JKVKnFBDDPPqSCjCxEGkWD7K1PVS9NWNgY
